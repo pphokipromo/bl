@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pphokipromo.github.io/bl/sitemap.xml
